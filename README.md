@@ -1,2 +1,4 @@
 # RSTP-HKVision
-Streaming CCTV HIKVision dengan RTSP dan opencv
+HIKVision CCTV Streaming with RTSP and opencv
+
+Full source code?? contact us
